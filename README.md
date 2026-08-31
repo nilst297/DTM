@@ -21,3 +21,5 @@ Bild
 <img width="3507" height="2480" alt="EP06 Berlin" src="https://github.com/user-attachments/assets/dc8c016f-11bc-48ca-943a-ad4127efce90" />
 
 <img width="3507" height="4960" alt="EP06 Arbeitsaufgabe 06" src="https://github.com/user-attachments/assets/170e2a6c-e217-49e7-871f-8cfc8dfc3e05" />
+
+<img width="1044" height="776" alt="EP07 Perseiden" src="https://github.com/user-attachments/assets/3d167fd6-e119-4f35-99ec-76b5900d40ea" />
