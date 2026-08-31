@@ -17,3 +17,5 @@ Bild
 <img width="1191" height="842" alt="KirschenPunkte" src="https://github.com/user-attachments/assets/b2b1ec17-fcf0-43a0-9fb8-37be4d55d16a" />
 
 <img width="4960" height="3507" alt="EP04 Arbeitsauftrag 05" src="https://github.com/user-attachments/assets/cc66b419-164c-4732-a68d-a0530bbccff0" />
+
+<img width="3507" height="2480" alt="EP06 Berlin" src="https://github.com/user-attachments/assets/dc8c016f-11bc-48ca-943a-ad4127efce90" />
