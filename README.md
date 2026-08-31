@@ -23,3 +23,5 @@ Bild
 <img width="3507" height="4960" alt="EP06 Arbeitsaufgabe 06" src="https://github.com/user-attachments/assets/170e2a6c-e217-49e7-871f-8cfc8dfc3e05" />
 
 <img width="1044" height="776" alt="EP07 Perseiden" src="https://github.com/user-attachments/assets/3d167fd6-e119-4f35-99ec-76b5900d40ea" />
+
+<img width="2243" height="1000" alt="EP07 Arbeitsaufgabe 07" src="https://github.com/user-attachments/assets/63398c84-23af-4866-8104-0abf16d28440" />
