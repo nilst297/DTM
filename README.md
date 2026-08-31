@@ -22,6 +22,8 @@ Bild
 <img width="4960" height="3507" alt="EP04 Arbeitsauftrag 05" src="https://github.com/user-attachments/assets/cc66b419-164c-4732-a68d-a0530bbccff0" />
 
 ## EP 05
+<img width="3507" height="2480" alt="EP05 Ukraine" src="https://github.com/user-attachments/assets/9b18833f-1c76-481f-87e4-6c50afe8b8f2" />
+
 
 ## EP 06
 <img width="3507" height="2480" alt="EP06 Berlin" src="https://github.com/user-attachments/assets/dc8c016f-11bc-48ca-943a-ad4127efce90" />
