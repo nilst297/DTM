@@ -36,6 +36,7 @@ Bild
 <img width="2243" height="1000" alt="EP07 Arbeitsaufgabe 07" src="https://github.com/user-attachments/assets/63398c84-23af-4866-8104-0abf16d28440" />
 
 ## EP 08
+<img width="1310" height="914" alt="TEST-ezgif com-gif-maker (1)" src="https://github.com/user-attachments/assets/bd020e03-4d22-4127-b4bb-23fa1c6f4624" />
 
 ## EP 09
 <img width="1790" height="1057" alt="EP09 Arbeitsaufgabe 09 1" src="https://github.com/user-attachments/assets/21623b30-38e9-4351-b639-7f1c8fa39fcb" />
