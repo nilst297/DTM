@@ -28,3 +28,4 @@ Bild
 
 <img width="1790" height="1057" alt="EP09 Arbeitsaufgabe 09 1" src="https://github.com/user-attachments/assets/21623b30-38e9-4351-b639-7f1c8fa39fcb" />
 
+<img width="2386" height="1175" alt="EP09 Arbeitsaufgabe 09 2" src="https://github.com/user-attachments/assets/e235411d-4998-4a85-8ea1-b1c35d7fde96" />
