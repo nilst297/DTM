@@ -55,6 +55,7 @@ Im Rahmen des Themas „Animationen in QGIS“ wurden zwei zeitdynamische Karten
 <img width="2243" height="1000" alt="EP07 Arbeitsaufgabe 07" src="https://github.com/user-attachments/assets/63398c84-23af-4866-8104-0abf16d28440" />
 
 ## EP.08 | Mesh-Daten
+Die Arbeitsaufgabe 08 befasst sich mit der animierten Visualisierung von Mesh-Daten am Beispiel des Orkans Kyrill vom 16. bis 21.Januar 2007. Dabei wurde sich bei der farblichen Visualisierung an dem Stil des Künstlers van Goghs orientiert. Die Strömungslinien geben Auskunft über die Windbewegungen im vier Stundentakt und die vorherrschenden Windgeschwindigkeiten. Hierbei zeigen sich identische Vor- und Nachteile wie in der vorherigen Aufgabe.
 ### Arbeitsaufgabe 08
 <img width="1310" height="914" alt="TEST-ezgif com-gif-maker (1)" src="https://github.com/user-attachments/assets/bd020e03-4d22-4127-b4bb-23fa1c6f4624" />
 
