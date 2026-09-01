@@ -9,6 +9,7 @@ erwer
 Bild
 ## EP.01 | Kleines Einmaleins der thematischen Kartographie | Dasymetrische Choroplethenkarte
 ### Arbeitsaufgabe 01
+Im Rahmen der ersten Arbeitsaufgabe wurden zum Thema „Die Bevölkerung Berlins 2025“ drei Karten in unterschiedlichen Darstellungsvarianten erstellt: eine absolute, eine relative und eine dasymetrische Darstellung. Bei allen drei Karten gibt die Farbgebung Auskunft über die Wertigkeit des Bezirks entsprechend der Legende. Zudem wurden die drei Karten in einem Layout vereint, um die Unterschiede der Varianten zu verdeutlichen. Die absolute Karte zeigt die Gesamteinwohnerzahl im jeweiligen Berliner Bezirk. Bei der relativen Karte werden die Einwohner pro km² dargestellt, wobei allerdings auch unbewohnte Flächen mitberechnet werden. Dies ist bei der dasymetrischen Karte nicht der Fall, diese zeigt ebenfalls die Einwohner pro km², schließt unbewohnte Areale jedoch aus und gibt somit die tatsächliche Einwohnerdichte wieder. So zeigt der Vergleich, wie unterschiedlich man eine Datengrundlage durch Karten interpretieren kann, wobei die dasymetrische Darstellung Fehldeutungen durch unbewohnte Areale, wie zum Beispiel Wälder oder Seen, vermeidet und somit das räumlich aussagekräftigste Bild der Bevölkerungsverteilung liefert.
 <img width="3509" height="4963" alt="Bev_Berlin_2025" src="https://github.com/user-attachments/assets/2cbf022f-80d5-463d-bed9-b58150c3285d" />
 
 ## EP.02 | Kleines Einmaleins der thematischen Kartographie | Gitterchoroplethenkarten
