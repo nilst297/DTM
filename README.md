@@ -14,6 +14,7 @@ Im Rahmen der ersten Arbeitsaufgabe wurden zum Thema „Die Bevölkerung Berlins
 
 ## EP.02 | Kleines Einmaleins der thematischen Kartographie | Gitterchoroplethenkarten
 ### Arbeitsaufgabe 02
+Für die zweite Arbeitsaufgabe wurde das Thema Gitterchoroplethenkarten anhand einer rasterbasierten Karte auf Grundlage eines Datensatzes über Kirschbäume in Berlin visualisiert. Um die räumliche Verteilung unabhängig von administrativen Grenzen darzustellen, wurden die einzelnen Standorte der Kirschbäume in einem 500m-Hexagongitter zusammengefasst. Hexagone ohne Baumbestand (Wert 0) wurden dabei aus der Darstellung entfernt. Die Farbgebung der verbleibenden Hexagone gibt entsprechend der Legende Auskunft über die absolute Anzahl der Kirschbäume pro Rasterzelle. Durch das gleichmäßige Gitter werden städtische Muster und Dichte-Hotspots präzise sichtbar gemacht, wobei die Methode fehlerhafte Interpretationen durch unterschiedlich große Verwaltungseinheiten vermeidet und somit ein räumlich vergleichbares Bild der Baumverteilung liefert.
 <img width="1191" height="842" alt="KirschenHexagon" src="https://github.com/user-attachments/assets/068a3771-6d44-4312-8ae3-2af953b5c92a" />
 
 ## EP.03 | Punktrasterkarten
