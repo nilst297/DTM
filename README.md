@@ -39,6 +39,7 @@ Für das Thema der Ursprung-Ziel-Karten wurden zwei Darstellungen auf einer Glob
 <img width="1437" height="1012" alt="EP05 Afghanistan" src="https://github.com/user-attachments/assets/8db5a28c-425d-448a-90db-efd2a7e50de9" />
 
 ## EP.06 | Tilemaps
+Die folgenden Karten zum Thema Tilemaps zeigen das Höhenrelief Berlins (im Übungsbeispiel) sowie das Höhenrelief Deutschlands (in Arbeitsaufgabe 06) im Lego-Stil. Hierfür wurde die jeweilige Region mit einem gleichmäßigen Hexagongitter abgedeckt, wobei die einzelnen Kacheln durch Noppen mit der Beschriftung „BHT“ optisch wie Lego-Bausteine gestaltet wurden. Die Farbgebung der Hexagone gibt dabei entsprechend der Legende Auskunft über die durchschnittliche Höhe in Metern innerhalb des jeweiligen Rasterfeldes. Diese Karten zeichnen sich durch eine stark vereinfachte Visualisierung aus, welche komplexe Topografien intuitiv und ansprechend vermittelt. Durch das einheitliche Raster bleiben die Einheiten zudem räumlich perfekt vergleichbar. Diese starke Generalisierung macht die Karte zwar sehr anschaulich, führt jedoch dazu, dass feine Details wie einzelne Erhebungen oder Täler verloren gehen. Um solche Details abzubilden, wären sehr kleine Hexagone nötig, wodurch die Übersichtlichkeit verloren ginge. Dies macht die Methodik für präzise geografische Analysen ungeeignet.
 ### Übungsbeispiel
 <img width="3507" height="2480" alt="EP06 Berlin" src="https://github.com/user-attachments/assets/dc8c016f-11bc-48ca-943a-ad4127efce90" />
 
