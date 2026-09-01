@@ -31,6 +31,7 @@ Bild
 <img width="3507" height="2480" alt="EP05 Ukraine" src="https://github.com/user-attachments/assets/9b18833f-1c76-481f-87e4-6c50afe8b8f2" />
 
 ### Arbeitsaufgabe Flüchtlingskonstellation
+<img width="1437" height="1012" alt="EP05 Afghanistan" src="https://github.com/user-attachments/assets/8db5a28c-425d-448a-90db-efd2a7e50de9" />
 
 ## EP.06 | Tilemaps
 ### Übungsbeispiel
