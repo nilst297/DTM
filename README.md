@@ -60,8 +60,11 @@ Die Arbeitsaufgabe 08 befasst sich mit der animierten Visualisierung von Mesh-Da
 <img width="1310" height="914" alt="TEST-ezgif com-gif-maker (1)" src="https://github.com/user-attachments/assets/bd020e03-4d22-4127-b4bb-23fa1c6f4624" />
 
 ## EP.09 | 3D-Geländemodelle
+Im Rahmen der letzten Arbeitsaufgabe wurde sich mit 2,5D- und 3D-Darstellungen beschäftigt.
 ### Arbeitsaufgabe 09 2,5D
+Der erste Ausschnitt zeigt die Ortschaften Ulrichshalben und Oßmannstedt in Thüringen in einer 2,5D-Darstellung. Hierbei werden 2D-Gebäudegrundrisse anhand von Höhenattributen vertikal aufgespannt, während die Bezugsfläche flach bleibt. Zusätzlich wurden die Gebäude eingefärbt und teiltransparent gemacht, um die Gebäudestruktur zu verdeutlichen. Dabei ist ein großer Vorteil der 2,5D-Darstellung der geringe Rechenaufwand bei gleichzeitig verbesserter räumlicher Wahrnehmung von Gebäudehöhen und -dichten. Allerdings fehlen dabei echte Geländestrukturen sowie Neigungswinkel.
 <img width="1790" height="1057" alt="EP09 Arbeitsaufgabe 09 1" src="https://github.com/user-attachments/assets/21623b30-38e9-4351-b639-7f1c8fa39fcb" />
 
 ### Arbeitsaufgabe 09 3D
+Der zweite Ausschnitt zeigt die Ortschaft Pausa in Sachsen als 3D-Darstellung. Hier wurden die 3D-Gebäudemodelle mit einem digitalen Geländemodell und einbezogener Luftbild-Textur kombiniert, wodurch die Höhenunterschiede der Landschaft realistisch abgebildet werden. Gleichzeitig wurden die Gebäudemodelle realistisch eingefärbt, um einen realitätsnahen Eindruck zu gewinnen. Hierbei bietet die 3D-Darstellung maximale Anschaulichkeit und eignet sich hervorragend für Sichtfeldanalysen oder Stadtbilduntersuchungen.
 <img width="2386" height="1175" alt="EP09 Arbeitsaufgabe 09 2" src="https://github.com/user-attachments/assets/e235411d-4998-4a85-8ea1-b1c35d7fde96" />
