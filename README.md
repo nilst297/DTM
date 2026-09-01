@@ -31,6 +31,7 @@ In Arbeitsaufgabe 05 wird das Verfahren des Value-By-Alpha Mappings am Beispiel 
 <img width="4960" height="3507" alt="EP04 Arbeitsauftrag 05" src="https://github.com/user-attachments/assets/cc66b419-164c-4732-a68d-a0530bbccff0" />
 
 ## EP.05 | Ursprung-Ziel-Karten
+Für das Thema der Ursprung-Ziel-Karten wurden zwei Darstellungen auf einer Globusprojektion erstellt. Die erste Karte beschäftigt sich mit den Fluchtbewegungen aus der Ukraine im Jahr 2025, während die zweite Karte dieses Konzept aufgreift und die Fluchtbewegungen aus Afghanistan im selben Jahr zeigt. Die Herkunftsländer Ukraine und Afghanistan bilden dabei jeweils den zentralen Ursprungspunkt der Bewegungen. Von diesen Zentren führen Verbindungslinien zu den jeweiligen Zielländern. Zusätzlich sind die Zielländer mit Punkten markiert, wobei die Farbgebung und Dicke der Linien und Punkte entsprechend der Legende die Anzahl der geflohenen Personen repräsentieren. Ein großer Vorteil dieser Methodik liegt darin, dass räumliche Bewegungsströme und globale Vernetzungen anschaulich und intuitiv dargestellt werden können. Ein Nachteil ist jedoch das visuelle Durcheinander, bei sehr vielen Zielorten überlagern sich die Linien stark um das Ursprungsland herum, wodurch einzelne Verbindungen unübersichtlich werden und genaue Zahlenwerte schwer abzulesen sind.
 ### Übungsbeispiel
 <img width="3507" height="2480" alt="EP05 Ukraine" src="https://github.com/user-attachments/assets/9b18833f-1c76-481f-87e4-6c50afe8b8f2" />
 
