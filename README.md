@@ -26,6 +26,7 @@ Die Arbeitsaufgaben 03 und 04 greifen das Grundkonzept der vorherigen Aufgabe au
 <img width="1191" height="842" alt="KirschenPunkte" src="https://github.com/user-attachments/assets/b2b1ec17-fcf0-43a0-9fb8-37be4d55d16a" />
 
 ## EP.04 | Value-By-Alpha Mapping
+In Arbeitsaufgabe 05 wird das Verfahren des Value-By-Alpha Mappings am Beispiel der Ungarischen Parlamentswahlen 2026 dargestellt. Bei dieser Methodik werden zwei Variablen in einer Karte kombiniert: Die Farbe repräsentiert den jeweiligen Wahlsieger (Fidesz oder TISZA), während die Transparenz (Alpha-Kanal) als Gewichtung dient, um eine zweite Variable abzubilden. Hierbei zeigt die farbliche Sättigung, wie eindeutig der jeweilige Sieg im jeweiligen Wahlbezirk ausgefallen ist. Die Value-By-Alpha-Karte wurde durch zwei klassische Choroplethenkarten ergänzt, welche die einzelnen Gesamtstimmenanteile der Parteien Fidesz und TISZA darstellen, um beide Parteien direkt miteinander vergleichen zu können.
 ### Arbeitsaufgabe 05
 <img width="4960" height="3507" alt="EP04 Arbeitsauftrag 05" src="https://github.com/user-attachments/assets/cc66b419-164c-4732-a68d-a0530bbccff0" />
 
