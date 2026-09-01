@@ -47,6 +47,7 @@ Die folgenden Karten zum Thema Tilemaps zeigen das Höhenrelief Berlins (im Übu
 <img width="3507" height="4960" alt="EP06 Arbeitsaufgabe 06" src="https://github.com/user-attachments/assets/170e2a6c-e217-49e7-871f-8cfc8dfc3e05" />
 
 ## EP.07 | Animation in QGIS
+Im Rahmen des Themas „Animationen in QGIS“ wurden zwei zeitdynamische Karten zur Visualisierung von Meteoritenschauern erstellt. Die erste Animation zeigt die Perseiden über Mitteleuropa am 12. und 13. August 2025 im Stundentakt. Die zweite Animation (Arbeitsaufgabe 07) bildet die Geminiden über Moldawien und Teilen der Ukraine am 13. Dezember 2025 in einer zeitlichen Auflösung im Minutentakt ab. Hierbei wurde der räumliche Ausschnitt gezielt eingegrenzt, um die Datenmenge zu reduzieren, da höhere Datenmenge zu technischen Problemen führte. Der große Vorteil von Kartenanimationen liegt in der anschaulichen Darstellung zeitlicher und räumlicher Dynamiken, so lassen sich Bewegungen und Richtungen der Sternschnuppen wesentlich intuitiver erfassen als in einer statischen Karte. Der Nachteil besteht jedoch im hohen Rechen- und Speicheraufwand sowie in der fehlenden dauerhaften Übersicht. So müssen Betrachter die Animation aufmerksam verfolgen, da Informationen im Zeitverlauf immer wieder auftauchen und verschwinden.
 ### Übungsbeispiel
 <img width="1044" height="776" alt="EP07 Perseiden" src="https://github.com/user-attachments/assets/3d167fd6-e119-4f35-99ec-76b5900d40ea" />
 
